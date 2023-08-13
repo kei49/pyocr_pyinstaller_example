@@ -1,0 +1,6 @@
+**/__pycache__/**
+build/*
+dist/*
+pyocr_pyinstaller_example.txt
+data/*
+pub/*
